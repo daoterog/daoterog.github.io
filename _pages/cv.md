@@ -24,12 +24,11 @@ Education
 
 Research experience
 ======
-* **Research Project — AMLab, University of Amsterdam**, Sep. 2026 – Present
-  * Developing a new approach to non-autoregressive automatic speech recognition using continuous flow-based models
-
-* **Research Collaboration — Université de Montréal (Mila)**, Oct. 2025 – Present
-  * Feasible Learning: a per-sample constrained optimization framework designed to guarantee a minimum performance threshold on every training sample
-  * Exploring its properties relative to Empirical Risk Minimization and its usefulness when paired with more interpretable optimization goals
+<!-- * **MSc Research Project — supervised by AMLab, University of Amsterdam**, Fall 2026
+  * Non-autoregressive automatic speech recognition with continuous flow-based models
+  * Conditioning a pretrained flow-map language model on features from a frozen speech encoder, then distilling it into a few-step flow map
+  * Comparing two conditioning mechanisms: conditioning the velocity network alone versus conditioning the probability path itself
+  * Evaluated on LibriSpeech and the Open ASR Leaderboard suite, reporting word error rate and real-time factor -->
 
 * **Research Collaboration — Brown University**, Aug. 2024 – May 2025
   * Collaborated with Prof. Randall Balestriero on self-supervised learning for anomaly detection
