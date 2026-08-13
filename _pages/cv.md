@@ -16,6 +16,7 @@ Education
 ======
 * **M.S. in Artificial Intelligence**, University of Amsterdam, Sep. 2025 – Aug. 2027 (expected)
   * Awarded the Colfuturo Scholarship (Colombian Government), ranked 4th out of 1000+ applicants
+  * On track for the ELLIS honours track and graduating *cum laude*
 * **B.S. in Mathematical Engineering**, Universidad EAFIT, Medellín, July 2018 – June 2023
   * GPA: 4.61 / 5.0
   * Offered a Software Engineering Internship at Meta (London, UK, Fall 2022)
@@ -23,6 +24,9 @@ Education
 
 Research experience
 ======
+* **Research Project — AMLab, University of Amsterdam**, Sep. 2026 – Present
+  * Developing a new approach to non-autoregressive automatic speech recognition using continuous flow-based models
+
 * **Research Collaboration — Université de Montréal (Mila)**, Oct. 2025 – Present
   * Feasible Learning: a per-sample constrained optimization framework designed to guarantee a minimum performance threshold on every training sample
   * Exploring its properties relative to Empirical Risk Minimization and its usefulness when paired with more interpretable optimization goals
@@ -73,6 +77,12 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Interests

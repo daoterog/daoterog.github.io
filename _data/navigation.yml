@@ -14,18 +14,18 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Blog"
+    url: /year-archive/
+
   - title: "CV"
     url: /cv/
 
-  # Uncomment any of these once you have real content for that section.
-  # - title: "Teaching"
-  #   url: /teaching/
-
+  # Uncomment once you have projects to show.
   # - title: "Portfolio"
   #   url: /portfolio/
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
 
   # JSON-driven CV page (alternative to the Markdown one above, uses _data/cv.json)
   # - title: "CV"
