@@ -12,22 +12,25 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
+
+  # Uncomment any of these once you have real content for that section.
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # JSON-driven CV page (alternative to the Markdown one above, uses _data/cv.json)
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  # The template's own Markdown/features guide — handy while learning, hide before launch.
+  # - title: "Guide"
+  #   url: /markdown/
