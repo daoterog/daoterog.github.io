@@ -8,4 +8,4 @@ date: 2026-09-01
 location: "Amsterdam, Netherlands"
 ---
 
-Teaching assistant for Machine Learning 1 in the MSc Artificial Intelligence programme. I teach 4 hours of class every week and assist the course throughout the period.
+Teaching assistant for Machine Learning 1 in the MSc Artificial Intelligence program. I teach 4 hours of class every week and assist the course throughout the period.
