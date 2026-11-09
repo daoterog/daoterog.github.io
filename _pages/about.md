@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year MSc student in Artificial Intelligence at the **University of Amsterdam**, doing research under the supervision of Maria Esteban-Casadevall and Prof. [Erik Bekkers](https://amlab.science.uva.nl/people/ErikBekkers/) at [AMLab](https://amlab.science.uva.nl/). My interests sits at the intersection of representation learning and generative modeling: learning good representations when labels are scarce, and generating data efficiently when compute is. I'm especially interested in geometric inductive priors, such as symmetries and hierarchies, where the data genuinely can leverage them.
+I'm a second-year MSc student in Artificial Intelligence at the **University of Amsterdam**, doing research under the supervision of Maria Esteban-Casadevall and Prof. [Erik Bekkers](https://amlab.science.uva.nl/people/ErikBekkers/) at [AMLab](https://amlab.science.uva.nl/). My interests sit at the intersection of representation learning and generative modeling: learning good representations when labels are scarce, and generating data efficiently when compute is. I'm especially interested in geometric inductive priors, such as symmetries and hierarchies, where the data genuinely can leverage them.
 
 Current work
 ======
 * **Equivariant drifting for 3D molecules.** Extending drifting models, a one-step alternative to diffusion, to equivariant molecule generation without the alignment steps that become expensive for large 3D graphs. *In preparation.*
 * **Continuous flows for speech recognition.** A non-autoregressive ASR model that refines a noisy draft predicted from the audio into the transcript, rather than generating it from noise. Trained from scratch, with no pretrained text model or guidance, the audio-conditioned source halves the word error rate of the same flow started from noise. Next: distilling it into a flow map for one- or few-step decoding. *In preparation.*
-* **Few-step and discrete drifting.** Ongoing work that I'll extend in my MSc thesis to a fully discrete setting based on Markov kernels.
+* **Unification of few-step generation methods.** Recent methods for few-step generation are defined in isolation, with their own objective, notation, and theory. I'm putting them in a common framework to clarify what truly separates them, as a first step toward a unified view that connects them to flow matching and diffusion. *Just started.*
 
 Research interests
 ======
