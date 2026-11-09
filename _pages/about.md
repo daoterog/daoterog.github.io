@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year MSc student in Artificial Intelligence at the **University of Amsterdam**, doing research under the supervision of Maria Esteban-Casadevall and Prof. [Erik Bekkers](https://amlab.science.uva.nl/people/ErikBekkers/) at [AMLab](https://amlab.science.uva.nl/). My work sits at the intersection of representation learning and generative modeling: learning good representations when labels are scarce, and generating data efficiently when compute is. I'm especially interested in geometric inductive priors, such as symmetries and hierarchies, where the data genuinely can leevrage them.
-
-Before Amsterdam, I spent almost three years as the first hire on the AI team at EXIT83 Consulting. One of my projects there, defect detection in sewer inspection footage, showed me how poorly pretrained self-supervised models transfer to unusual domains, which led to my first research on self-supervised pretraining directly on in-domain data. I later extended this work with Prof. [Randall Balestriero](https://randallbalestriero.github.io/) (Brown University); it received the Best Paper Award at the LatinX in AI Workshop @ NeurIPS 2024. I hold a BSc in Mathematical Engineering from Universidad EAFIT, Colombia.
+I'm a second-year MSc student in Artificial Intelligence at the **University of Amsterdam**, doing research under the supervision of Maria Esteban-Casadevall and Prof. [Erik Bekkers](https://amlab.science.uva.nl/people/ErikBekkers/) at [AMLab](https://amlab.science.uva.nl/). My interests sits at the intersection of representation learning and generative modeling: learning good representations when labels are scarce, and generating data efficiently when compute is. I'm especially interested in geometric inductive priors, such as symmetries and hierarchies, where the data genuinely can leverage them.
 
 Current work
 ======
@@ -35,5 +33,11 @@ Recent highlights
 * **June 2025** · Awarded the **Colfuturo Scholarship**, ranking 4th out of 1,000+ applicants.
 * **December 2024** · Presented a paper at the *Self-Supervised Learning: Theory and Practice* Workshop @ **NeurIPS 2024**, and received **Best Paper** and an **Oral Presentation** at the *LatinX in AI (LXAI)* Workshop @ NeurIPS 2024.
 * **July 2024** · Presented my first research project at the *LXAI* Workshop @ **ICML 2024**.
+
+Past experience
+======
+* **AI/ML Engineer, EXIT83 Consulting** · 2023–2025. First hire on the AI team. One of my projects, defect detection in sewer inspection footage, showed me how poorly pretrained self-supervised models transfer to unusual domains, and led to my first research on self-supervised pretraining directly on in-domain data.
+* **Research collaboration, Brown University** · 2024–2025. Extended that work with Prof. [Randall Balestriero](https://randallbalestriero.github.io/) to more self-supervised methods and domains.
+* **BSc in Mathematical Engineering, Universidad EAFIT** · 2018–2023, Medellín, Colombia.
 
 I'm looking for **research positions** after I graduate in 2027, in academia or industry. I'm always happy to talk about research or potential collaborations, so feel free to [email me](mailto:doterog320@gmail.com).
