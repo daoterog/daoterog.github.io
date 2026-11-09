@@ -11,9 +11,9 @@ I'm a second-year MSc student in Artificial Intelligence at the **University of 
 
 Current work
 ======
-* **Equivariant drifting for 3D molecules.** Extending drifting models, a one-step alternative to diffusion, to equivariant molecule generation without the alignment steps that become expensive for large 3D graphs. *In preparation.*
-* **Continuous flows for speech recognition.** A non-autoregressive ASR model that refines a noisy draft predicted from the audio into the transcript, rather than generating it from noise. Trained from scratch, with no pretrained text model or guidance, the audio-conditioned source halves the word error rate of the same flow started from noise. Next: distilling it into a flow map for one- or few-step decoding. *In preparation.*
 * **Unification of few-step generation methods.** Recent methods for few-step generation are defined in isolation, with their own objective, notation, and theory. I'm putting them in a common framework to clarify what truly separates them, as a first step toward a unified view that connects them to flow matching and diffusion. *Just started.*
+* **Continuous flows for speech recognition.** A non-autoregressive ASR model that refines a noisy draft predicted from the audio into the transcript, rather than generating it from noise. Trained from scratch, with no pretrained text model or guidance, the audio-conditioned source halves the word error rate of the same flow started from noise. Next: distilling it into a flow map for one- or few-step decoding. *In preparation.*
+* **Equivariant drifting for 3D molecules.** Extending drifting models, a one-step alternative to diffusion, to equivariant molecule generation without the alignment steps that become expensive for large 3D graphs. *In preparation.*
 
 Research interests
 ======
